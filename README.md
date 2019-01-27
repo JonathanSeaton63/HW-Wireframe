@@ -2,4 +2,4 @@
 
 A basic outline of a webpage using HTML/CSS
 
-![screenshot](MacintoshHD⁩/Users⁩/jonseaton⁩/Desktop⁩/screenshot.jpg)
+![screenshot](https://utah.bootcampcontent.com/utah-coding-bootcamp/UTAHSAN201810FSF2/raw/master/01-html-git-css/02-Homework/Instructions/Images/Easier-Layout.png)
